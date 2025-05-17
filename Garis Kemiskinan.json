@@ -1,0 +1,2070 @@
+[
+    {
+        "nama_wilayah": "Simeulue",
+        "garis_kemiskinan": 576505
+    },
+    {
+        "nama_wilayah": "Aceh Singkil",
+        "garis_kemiskinan": 609322
+    },
+    {
+        "nama_wilayah": "Aceh Selatan",
+        "garis_kemiskinan": 528243
+    },
+    {
+        "nama_wilayah": "Aceh Tenggara",
+        "garis_kemiskinan": 496074
+    },
+    {
+        "nama_wilayah": "Aceh Timur",
+        "garis_kemiskinan": 557943
+    },
+    {
+        "nama_wilayah": "Aceh Tengah",
+        "garis_kemiskinan": 626090
+    },
+    {
+        "nama_wilayah": "Aceh Barat",
+        "garis_kemiskinan": 644009
+    },
+    {
+        "nama_wilayah": "Aceh Besar",
+        "garis_kemiskinan": 586860
+    },
+    {
+        "nama_wilayah": "Pidie",
+        "garis_kemiskinan": 607117
+    },
+    {
+        "nama_wilayah": "Bireuen",
+        "garis_kemiskinan": 494866
+    },
+    {
+        "nama_wilayah": "Aceh Utara",
+        "garis_kemiskinan": 473719
+    },
+    {
+        "nama_wilayah": "Aceh Barat Daya",
+        "garis_kemiskinan": 516947
+    },
+    {
+        "nama_wilayah": "Gayo Lues",
+        "garis_kemiskinan": 557201
+    },
+    {
+        "nama_wilayah": "Aceh Tamiang",
+        "garis_kemiskinan": 583294
+    },
+    {
+        "nama_wilayah": "Nagan Raya",
+        "garis_kemiskinan": 635820
+    },
+    {
+        "nama_wilayah": "Aceh Jaya",
+        "garis_kemiskinan": 536092
+    },
+    {
+        "nama_wilayah": "Bener Meriah",
+        "garis_kemiskinan": 591421
+    },
+    {
+        "nama_wilayah": "Pidie Jaya",
+        "garis_kemiskinan": 599755
+    },
+    {
+        "nama_wilayah": "Kota Banda Aceh",
+        "garis_kemiskinan": 862944
+    },
+    {
+        "nama_wilayah": "Kota Sabang",
+        "garis_kemiskinan": 725956
+    },
+    {
+        "nama_wilayah": "Kota Langsa",
+        "garis_kemiskinan": 546363
+    },
+    {
+        "nama_wilayah": "Kota Lhokseumawe",
+        "garis_kemiskinan": 522671
+    },
+    {
+        "nama_wilayah": "Kota Subulussalam",
+        "garis_kemiskinan": 504372
+    },
+    {
+        "nama_wilayah": "Nias",
+        "garis_kemiskinan": 520024
+    },
+    {
+        "nama_wilayah": "Mandailing Natal",
+        "garis_kemiskinan": 519553
+    },
+    {
+        "nama_wilayah": "Tapanuli Selatan",
+        "garis_kemiskinan": 512480
+    },
+    {
+        "nama_wilayah": "Tapanuli Tengah",
+        "garis_kemiskinan": 527227
+    },
+    {
+        "nama_wilayah": "Tapanuli Utara",
+        "garis_kemiskinan": 531593
+    },
+    {
+        "nama_wilayah": "Toba Samosir",
+        "garis_kemiskinan": 531581
+    },
+    {
+        "nama_wilayah": "Labuhan Batu",
+        "garis_kemiskinan": 556900
+    },
+    {
+        "nama_wilayah": "Asahan",
+        "garis_kemiskinan": 454298
+    },
+    {
+        "nama_wilayah": "Simalungun",
+        "garis_kemiskinan": 496959
+    },
+    {
+        "nama_wilayah": "Dairi",
+        "garis_kemiskinan": 502924
+    },
+    {
+        "nama_wilayah": "Karo",
+        "garis_kemiskinan": 656812
+    },
+    {
+        "nama_wilayah": "Deli Serdang",
+        "garis_kemiskinan": 508139
+    },
+    {
+        "nama_wilayah": "Langkat",
+        "garis_kemiskinan": 507996
+    },
+    {
+        "nama_wilayah": "Nias Selatan",
+        "garis_kemiskinan": 406429
+    },
+    {
+        "nama_wilayah": "Humbang Hasundutan",
+        "garis_kemiskinan": 487256
+    },
+    {
+        "nama_wilayah": "Pakpak Bharat",
+        "garis_kemiskinan": 412759
+    },
+    {
+        "nama_wilayah": "Samosir",
+        "garis_kemiskinan": 455397
+    },
+    {
+        "nama_wilayah": "Serdang Bedagai",
+        "garis_kemiskinan": 518209
+    },
+    {
+        "nama_wilayah": "Batu Bara",
+        "garis_kemiskinan": 591201
+    },
+    {
+        "nama_wilayah": "Padang Lawas Utara",
+        "garis_kemiskinan": 502403
+    },
+    {
+        "nama_wilayah": "Padang Lawas",
+        "garis_kemiskinan": 483395
+    },
+    {
+        "nama_wilayah": "Labuhan Batu Selatan",
+        "garis_kemiskinan": 533535
+    },
+    {
+        "nama_wilayah": "Labuhan Batu Utara",
+        "garis_kemiskinan": 607292
+    },
+    {
+        "nama_wilayah": "Nias Utara",
+        "garis_kemiskinan": 535575
+    },
+    {
+        "nama_wilayah": "Nias Barat",
+        "garis_kemiskinan": 556919
+    },
+    {
+        "nama_wilayah": "Kota Sibolga",
+        "garis_kemiskinan": 612818
+    },
+    {
+        "nama_wilayah": "Kota Tanjung Balai",
+        "garis_kemiskinan": 592573
+    },
+    {
+        "nama_wilayah": "Kota Pematang Siantar",
+        "garis_kemiskinan": 709992
+    },
+    {
+        "nama_wilayah": "Kota Tebing Tinggi",
+        "garis_kemiskinan": 665016
+    },
+    {
+        "nama_wilayah": "Kota Medan",
+        "garis_kemiskinan": 695295
+    },
+    {
+        "nama_wilayah": "Kota Binjai",
+        "garis_kemiskinan": 577220
+    },
+    {
+        "nama_wilayah": "Kota Padangsidimpuan",
+        "garis_kemiskinan": 556024
+    },
+    {
+        "nama_wilayah": "Kota Gunungsitoli",
+        "garis_kemiskinan": 493644
+    },
+    {
+        "nama_wilayah": "Kepulauan Mentawai",
+        "garis_kemiskinan": 461088
+    },
+    {
+        "nama_wilayah": "Pesisir Selatan",
+        "garis_kemiskinan": 589787
+    },
+    {
+        "nama_wilayah": "Solok",
+        "garis_kemiskinan": 569605
+    },
+    {
+        "nama_wilayah": "Sijunjung",
+        "garis_kemiskinan": 565067
+    },
+    {
+        "nama_wilayah": "Tanah Datar",
+        "garis_kemiskinan": 554665
+    },
+    {
+        "nama_wilayah": "Padang Pariaman",
+        "garis_kemiskinan": 580392
+    },
+    {
+        "nama_wilayah": "Agam",
+        "garis_kemiskinan": 558963
+    },
+    {
+        "nama_wilayah": "Lima Puluh Kota",
+        "garis_kemiskinan": 582794
+    },
+    {
+        "nama_wilayah": "Pasaman",
+        "garis_kemiskinan": 515608
+    },
+    {
+        "nama_wilayah": "Solok Selatan",
+        "garis_kemiskinan": 551340
+    },
+    {
+        "nama_wilayah": "Dharmasraya",
+        "garis_kemiskinan": 622190
+    },
+    {
+        "nama_wilayah": "Pasaman Barat",
+        "garis_kemiskinan": 657354
+    },
+    {
+        "nama_wilayah": "Kota Padang",
+        "garis_kemiskinan": 736786
+    },
+    {
+        "nama_wilayah": "Kota Solok",
+        "garis_kemiskinan": 569869
+    },
+    {
+        "nama_wilayah": "Kota Sawah Lunto",
+        "garis_kemiskinan": 524196
+    },
+    {
+        "nama_wilayah": "Kota Padang Panjang",
+        "garis_kemiskinan": 634303
+    },
+    {
+        "nama_wilayah": "Kota Bukittinggi",
+        "garis_kemiskinan": 658640
+    },
+    {
+        "nama_wilayah": "Kota Payakumbuh",
+        "garis_kemiskinan": 648230
+    },
+    {
+        "nama_wilayah": "Kota Pariaman",
+        "garis_kemiskinan": 609286
+    },
+    {
+        "nama_wilayah": "Kuantan Singingi",
+        "garis_kemiskinan": 736050
+    },
+    {
+        "nama_wilayah": "Indragiri Hulu",
+        "garis_kemiskinan": 660349
+    },
+    {
+        "nama_wilayah": "Indragiri Hilir",
+        "garis_kemiskinan": 629570
+    },
+    {
+        "nama_wilayah": "Pelalawan",
+        "garis_kemiskinan": 729977
+    },
+    {
+        "nama_wilayah": "Siak",
+        "garis_kemiskinan": 595659
+    },
+    {
+        "nama_wilayah": "Kampar",
+        "garis_kemiskinan": 590444
+    },
+    {
+        "nama_wilayah": "Rokan Hulu",
+        "garis_kemiskinan": 699018
+    },
+    {
+        "nama_wilayah": "Bengkalis",
+        "garis_kemiskinan": 755572
+    },
+    {
+        "nama_wilayah": "Rokan Hilir",
+        "garis_kemiskinan": 545799
+    },
+    {
+        "nama_wilayah": "Kepulauan Meranti",
+        "garis_kemiskinan": 661863
+    },
+    {
+        "nama_wilayah": "Kota Pekanbaru",
+        "garis_kemiskinan": 749522
+    },
+    {
+        "nama_wilayah": "Kota Dumai",
+        "garis_kemiskinan": 631652
+    },
+    {
+        "nama_wilayah": "JAMBI",
+        "garis_kemiskinan": 650115
+    },
+    {
+        "nama_wilayah": "Kerinci",
+        "garis_kemiskinan": 606095
+    },
+    {
+        "nama_wilayah": "Merangin",
+        "garis_kemiskinan": 617011
+    },
+    {
+        "nama_wilayah": "Sarolangun",
+        "garis_kemiskinan": 607306
+    },
+    {
+        "nama_wilayah": "Batang Hari",
+        "garis_kemiskinan": 613093
+    },
+    {
+        "nama_wilayah": "Muaro Jambi",
+        "garis_kemiskinan": 617948
+    },
+    {
+        "nama_wilayah": "Tanjung Jabung Timur",
+        "garis_kemiskinan": 592432
+    },
+    {
+        "nama_wilayah": "Tanjung Jabung Barat",
+        "garis_kemiskinan": 575337
+    },
+    {
+        "nama_wilayah": "Tebo",
+        "garis_kemiskinan": 590573
+    },
+    {
+        "nama_wilayah": "Bungo",
+        "garis_kemiskinan": 607714
+    },
+    {
+        "nama_wilayah": "Kota Jambi",
+        "garis_kemiskinan": 757014
+    },
+    {
+        "nama_wilayah": "Kota Sungai Penuh",
+        "garis_kemiskinan": 610141
+    },
+    {
+        "nama_wilayah": "SUMATERA SELATAN",
+        "garis_kemiskinan": 554197
+    },
+    {
+        "nama_wilayah": "Ogan Komering Ulu",
+        "garis_kemiskinan": 563523
+    },
+    {
+        "nama_wilayah": "Ogan Komering Ilir",
+        "garis_kemiskinan": 473057
+    },
+    {
+        "nama_wilayah": "Muara Enim",
+        "garis_kemiskinan": 491107
+    },
+    {
+        "nama_wilayah": "Lahat",
+        "garis_kemiskinan": 582041
+    },
+    {
+        "nama_wilayah": "Musi Rawas",
+        "garis_kemiskinan": 589926
+    },
+    {
+        "nama_wilayah": "Musi Banyuasin",
+        "garis_kemiskinan": 594355
+    },
+    {
+        "nama_wilayah": "Banyu Asin",
+        "garis_kemiskinan": 539283
+    },
+    {
+        "nama_wilayah": "Ogan Komering Ulu Selatan",
+        "garis_kemiskinan": 436420
+    },
+    {
+        "nama_wilayah": "Ogan Komering Ulu Timur",
+        "garis_kemiskinan": 434534
+    },
+    {
+        "nama_wilayah": "Ogan Ilir",
+        "garis_kemiskinan": 589012
+    },
+    {
+        "nama_wilayah": "Empat Lawang",
+        "garis_kemiskinan": 421747
+    },
+    {
+        "nama_wilayah": "Penukal Abab Lematang Ilir",
+        "garis_kemiskinan": 503822
+    },
+    {
+        "nama_wilayah": "Musi Rawas Utara",
+        "garis_kemiskinan": 638089
+    },
+    {
+        "nama_wilayah": "Kota Palembang",
+        "garis_kemiskinan": 660932
+    },
+    {
+        "nama_wilayah": "Kota Prabumulih",
+        "garis_kemiskinan": 650002
+    },
+    {
+        "nama_wilayah": "Kota Pagar Alam",
+        "garis_kemiskinan": 427007
+    },
+    {
+        "nama_wilayah": "Kota Lubuklinggau",
+        "garis_kemiskinan": 598850
+    },
+    {
+        "nama_wilayah": "Bengkulu Selatan",
+        "garis_kemiskinan": 492627
+    },
+    {
+        "nama_wilayah": "Rejang Lebong",
+        "garis_kemiskinan": 595125
+    },
+    {
+        "nama_wilayah": "Bengkulu Utara",
+        "garis_kemiskinan": 484432
+    },
+    {
+        "nama_wilayah": "Kaur",
+        "garis_kemiskinan": 432939
+    },
+    {
+        "nama_wilayah": "Seluma",
+        "garis_kemiskinan": 502739
+    },
+    {
+        "nama_wilayah": "Mukomuko",
+        "garis_kemiskinan": 566069
+    },
+    {
+        "nama_wilayah": "Lebong",
+        "garis_kemiskinan": 532432
+    },
+    {
+        "nama_wilayah": "Kepahiang",
+        "garis_kemiskinan": 488445
+    },
+    {
+        "nama_wilayah": "Bengkulu Tengah",
+        "garis_kemiskinan": 582468
+    },
+    {
+        "nama_wilayah": "Kota Bengkulu",
+        "garis_kemiskinan": 820354
+    },
+    {
+        "nama_wilayah": "Lampung Barat",
+        "garis_kemiskinan": 563531
+    },
+    {
+        "nama_wilayah": "Tanggamus",
+        "garis_kemiskinan": 496000
+    },
+    {
+        "nama_wilayah": "Lampung Selatan",
+        "garis_kemiskinan": 528226
+    },
+    {
+        "nama_wilayah": "Lampung Timur",
+        "garis_kemiskinan": 497183
+    },
+    {
+        "nama_wilayah": "Lampung Tengah",
+        "garis_kemiskinan": 526313
+    },
+    {
+        "nama_wilayah": "Lampung Utara",
+        "garis_kemiskinan": 544994
+    },
+    {
+        "nama_wilayah": "Way Kanan",
+        "garis_kemiskinan": 464717
+    },
+    {
+        "nama_wilayah": "Tulangbawang",
+        "garis_kemiskinan": 560324
+    },
+    {
+        "nama_wilayah": "Pesawaran",
+        "garis_kemiskinan": 524588
+    },
+    {
+        "nama_wilayah": "Pringsewu",
+        "garis_kemiskinan": 583425
+    },
+    {
+        "nama_wilayah": "Mesuji",
+        "garis_kemiskinan": 555729
+    },
+    {
+        "nama_wilayah": "Tulang Bawang Barat",
+        "garis_kemiskinan": 544020
+    },
+    {
+        "nama_wilayah": "Pesisir Barat",
+        "garis_kemiskinan": 566040
+    },
+    {
+        "nama_wilayah": "Kota Bandar Lampung",
+        "garis_kemiskinan": 787260
+    },
+    {
+        "nama_wilayah": "Kota Metro",
+        "garis_kemiskinan": 503161
+    },
+    {
+        "nama_wilayah": "Bangka",
+        "garis_kemiskinan": 723719
+    },
+    {
+        "nama_wilayah": "Belitung",
+        "garis_kemiskinan": 919372
+    },
+    {
+        "nama_wilayah": "Bangka Barat",
+        "garis_kemiskinan": 720398
+    },
+    {
+        "nama_wilayah": "Bangka Tengah",
+        "garis_kemiskinan": 856895
+    },
+    {
+        "nama_wilayah": "Bangka Selatan",
+        "garis_kemiskinan": 697382
+    },
+    {
+        "nama_wilayah": "Belitung Timur",
+        "garis_kemiskinan": 907577
+    },
+    {
+        "nama_wilayah": "Kota Pangkal Pinang",
+        "garis_kemiskinan": 925522
+    },
+    {
+        "nama_wilayah": "KEPULAUAN RIAU",
+        "garis_kemiskinan": 787211
+    },
+    {
+        "nama_wilayah": "Karimun",
+        "garis_kemiskinan": 492654
+    },
+    {
+        "nama_wilayah": "Bintan",
+        "garis_kemiskinan": 496764
+    },
+    {
+        "nama_wilayah": "Natuna",
+        "garis_kemiskinan": 501927
+    },
+    {
+        "nama_wilayah": "Lingga",
+        "garis_kemiskinan": 562906
+    },
+    {
+        "nama_wilayah": "Kepulauan Anambas",
+        "garis_kemiskinan": 504332
+    },
+    {
+        "nama_wilayah": "Kota Batam",
+        "garis_kemiskinan": 903960
+    },
+    {
+        "nama_wilayah": "Kota Tanjung Pinang",
+        "garis_kemiskinan": 798218
+    },
+    {
+        "nama_wilayah": "Kepulauan Seribu",
+        "garis_kemiskinan": 775909
+    },
+    {
+        "nama_wilayah": "Kota Jakarta Selatan",
+        "garis_kemiskinan": 928278
+    },
+    {
+        "nama_wilayah": "Kota Jakarta Timur",
+        "garis_kemiskinan": 697472
+    },
+    {
+        "nama_wilayah": "Kota Jakarta Pusat",
+        "garis_kemiskinan": 818722
+    },
+    {
+        "nama_wilayah": "Kota Jakarta Barat",
+        "garis_kemiskinan": 685071
+    },
+    {
+        "nama_wilayah": "Kota Jakarta Utara",
+        "garis_kemiskinan": 712835
+    },
+    {
+        "nama_wilayah": "Bogor",
+        "garis_kemiskinan": 513512
+    },
+    {
+        "nama_wilayah": "Sukabumi",
+        "garis_kemiskinan": 416751
+    },
+    {
+        "nama_wilayah": "Cianjur",
+        "garis_kemiskinan": 466509
+    },
+    {
+        "nama_wilayah": "Bandung",
+        "garis_kemiskinan": 455636
+    },
+    {
+        "nama_wilayah": "Garut",
+        "garis_kemiskinan": 393464
+    },
+    {
+        "nama_wilayah": "Tasikmalaya",
+        "garis_kemiskinan": 400148
+    },
+    {
+        "nama_wilayah": "Ciamis",
+        "garis_kemiskinan": 467497
+    },
+    {
+        "nama_wilayah": "Kuningan",
+        "garis_kemiskinan": 420867
+    },
+    {
+        "nama_wilayah": "Cirebon",
+        "garis_kemiskinan": 475046
+    },
+    {
+        "nama_wilayah": "Majalengka",
+        "garis_kemiskinan": 547912
+    },
+    {
+        "nama_wilayah": "Sumedang",
+        "garis_kemiskinan": 422714
+    },
+    {
+        "nama_wilayah": "Indramayu",
+        "garis_kemiskinan": 560159
+    },
+    {
+        "nama_wilayah": "Subang",
+        "garis_kemiskinan": 434161
+    },
+    {
+        "nama_wilayah": "Purwakarta",
+        "garis_kemiskinan": 467948
+    },
+    {
+        "nama_wilayah": "Karawang",
+        "garis_kemiskinan": 597345
+    },
+    {
+        "nama_wilayah": "Bekasi",
+        "garis_kemiskinan": 674924
+    },
+    {
+        "nama_wilayah": "Bandung Barat",
+        "garis_kemiskinan": 455325
+    },
+    {
+        "nama_wilayah": "Pangandaran",
+        "garis_kemiskinan": 470068
+    },
+    {
+        "nama_wilayah": "Kota Bogor",
+        "garis_kemiskinan": 699861
+    },
+    {
+        "nama_wilayah": "Kota Sukabumi",
+        "garis_kemiskinan": 678258
+    },
+    {
+        "nama_wilayah": "Kota Bandung",
+        "garis_kemiskinan": 614707
+    },
+    {
+        "nama_wilayah": "Kota Cirebon",
+        "garis_kemiskinan": 545592
+    },
+    {
+        "nama_wilayah": "Kota Bekasi",
+        "garis_kemiskinan": 842927
+    },
+    {
+        "nama_wilayah": "Kota Depok",
+        "garis_kemiskinan": 843893
+    },
+    {
+        "nama_wilayah": "Kota Cimahi",
+        "garis_kemiskinan": 612567
+    },
+    {
+        "nama_wilayah": "Kota Tasikmalaya",
+        "garis_kemiskinan": 565377
+    },
+    {
+        "nama_wilayah": "Kota Banjar",
+        "garis_kemiskinan": 430590
+    },
+    {
+        "nama_wilayah": "Cilacap",
+        "garis_kemiskinan": 441093
+    },
+    {
+        "nama_wilayah": "Banyumas",
+        "garis_kemiskinan": 500861
+    },
+    {
+        "nama_wilayah": "Purbalingga",
+        "garis_kemiskinan": 460870
+    },
+    {
+        "nama_wilayah": "Banjarnegara",
+        "garis_kemiskinan": 398344
+    },
+    {
+        "nama_wilayah": "Kebumen",
+        "garis_kemiskinan": 471824
+    },
+    {
+        "nama_wilayah": "Purworejo",
+        "garis_kemiskinan": 459253
+    },
+    {
+        "nama_wilayah": "Wonosobo",
+        "garis_kemiskinan": 456351
+    },
+    {
+        "nama_wilayah": "Magelang",
+        "garis_kemiskinan": 431289
+    },
+    {
+        "nama_wilayah": "Boyolali",
+        "garis_kemiskinan": 442071
+    },
+    {
+        "nama_wilayah": "Klaten",
+        "garis_kemiskinan": 505826
+    },
+    {
+        "nama_wilayah": "Sukoharjo",
+        "garis_kemiskinan": 501693
+    },
+    {
+        "nama_wilayah": "Wonogiri",
+        "garis_kemiskinan": 443563
+    },
+    {
+        "nama_wilayah": "Karanganyar",
+        "garis_kemiskinan": 491551
+    },
+    {
+        "nama_wilayah": "Sragen",
+        "garis_kemiskinan": 453663
+    },
+    {
+        "nama_wilayah": "Grobogan",
+        "garis_kemiskinan": 489208
+    },
+    {
+        "nama_wilayah": "Blora",
+        "garis_kemiskinan": 464959
+    },
+    {
+        "nama_wilayah": "Rembang",
+        "garis_kemiskinan": 518607
+    },
+    {
+        "nama_wilayah": "Pati",
+        "garis_kemiskinan": 559499
+    },
+    {
+        "nama_wilayah": "Kudus",
+        "garis_kemiskinan": 550075
+    },
+    {
+        "nama_wilayah": "Jepara",
+        "garis_kemiskinan": 503832
+    },
+    {
+        "nama_wilayah": "Demak",
+        "garis_kemiskinan": 535134
+    },
+    {
+        "nama_wilayah": "Semarang",
+        "garis_kemiskinan": 520639
+    },
+    {
+        "nama_wilayah": "Temanggung",
+        "garis_kemiskinan": 416086
+    },
+    {
+        "nama_wilayah": "Kendal",
+        "garis_kemiskinan": 488940
+    },
+    {
+        "nama_wilayah": "Batang",
+        "garis_kemiskinan": 412196
+    },
+    {
+        "nama_wilayah": "Pekalongan",
+        "garis_kemiskinan": 505520
+    },
+    {
+        "nama_wilayah": "Pemalang",
+        "garis_kemiskinan": 493593
+    },
+    {
+        "nama_wilayah": "Tegal",
+        "garis_kemiskinan": 497315
+    },
+    {
+        "nama_wilayah": "Brebes",
+        "garis_kemiskinan": 542495
+    },
+    {
+        "nama_wilayah": "Kota Magelang",
+        "garis_kemiskinan": 626614
+    },
+    {
+        "nama_wilayah": "Kota Surakarta",
+        "garis_kemiskinan": 638102
+    },
+    {
+        "nama_wilayah": "Kota Salatiga",
+        "garis_kemiskinan": 596659
+    },
+    {
+        "nama_wilayah": "Kota Semarang",
+        "garis_kemiskinan": 671936
+    },
+    {
+        "nama_wilayah": "Kota Pekalongan",
+        "garis_kemiskinan": 605312
+    },
+    {
+        "nama_wilayah": "Kota Tegal",
+        "garis_kemiskinan": 664922
+    },
+    {
+        "nama_wilayah": "Kulon Progo",
+        "garis_kemiskinan": 438007
+    },
+    {
+        "nama_wilayah": "Bantul",
+        "garis_kemiskinan": 510740
+    },
+    {
+        "nama_wilayah": "Gunung Kidul",
+        "garis_kemiskinan": 401209
+    },
+    {
+        "nama_wilayah": "Sleman",
+        "garis_kemiskinan": 513926
+    },
+    {
+        "nama_wilayah": "Kota Yogyakarta",
+        "garis_kemiskinan": 686973
+    },
+    {
+        "nama_wilayah": "Pacitan",
+        "garis_kemiskinan": 370643
+    },
+    {
+        "nama_wilayah": "Ponorogo",
+        "garis_kemiskinan": 413619
+    },
+    {
+        "nama_wilayah": "Trenggalek",
+        "garis_kemiskinan": 434146
+    },
+    {
+        "nama_wilayah": "Tulungagung",
+        "garis_kemiskinan": 447793
+    },
+    {
+        "nama_wilayah": "Blitar",
+        "garis_kemiskinan": 408399
+    },
+    {
+        "nama_wilayah": "Kediri",
+        "garis_kemiskinan": 403621
+    },
+    {
+        "nama_wilayah": "Malang",
+        "garis_kemiskinan": 420334
+    },
+    {
+        "nama_wilayah": "Lumajang",
+        "garis_kemiskinan": 405136
+    },
+    {
+        "nama_wilayah": "Jember",
+        "garis_kemiskinan": 459043
+    },
+    {
+        "nama_wilayah": "Banyuwangi",
+        "garis_kemiskinan": 470713
+    },
+    {
+        "nama_wilayah": "Bondowoso",
+        "garis_kemiskinan": 517741
+    },
+    {
+        "nama_wilayah": "Situbondo",
+        "garis_kemiskinan": 413611
+    },
+    {
+        "nama_wilayah": "Probolinggo",
+        "garis_kemiskinan": 537724
+    },
+    {
+        "nama_wilayah": "Pasuruan",
+        "garis_kemiskinan": 450088
+    },
+    {
+        "nama_wilayah": "Sidoarjo",
+        "garis_kemiskinan": 597284
+    },
+    {
+        "nama_wilayah": "Mojokerto",
+        "garis_kemiskinan": 508618
+    },
+    {
+        "nama_wilayah": "Jombang",
+        "garis_kemiskinan": 514170
+    },
+    {
+        "nama_wilayah": "Nganjuk",
+        "garis_kemiskinan": 539714
+    },
+    {
+        "nama_wilayah": "Madiun",
+        "garis_kemiskinan": 460205
+    },
+    {
+        "nama_wilayah": "Magetan",
+        "garis_kemiskinan": 455119
+    },
+    {
+        "nama_wilayah": "Ngawi",
+        "garis_kemiskinan": 445865
+    },
+    {
+        "nama_wilayah": "Bojonegoro",
+        "garis_kemiskinan": 471457
+    },
+    {
+        "nama_wilayah": "Tuban",
+        "garis_kemiskinan": 488131
+    },
+    {
+        "nama_wilayah": "Lamongan",
+        "garis_kemiskinan": 524636
+    },
+    {
+        "nama_wilayah": "Gresik",
+        "garis_kemiskinan": 608828
+    },
+    {
+        "nama_wilayah": "Bangkalan",
+        "garis_kemiskinan": 547017
+    },
+    {
+        "nama_wilayah": "Sampang",
+        "garis_kemiskinan": 491753
+    },
+    {
+        "nama_wilayah": "Pamekasan",
+        "garis_kemiskinan": 467493
+    },
+    {
+        "nama_wilayah": "Sumenep",
+        "garis_kemiskinan": 506569
+    },
+    {
+        "nama_wilayah": "Kota Kediri",
+        "garis_kemiskinan": 621051
+    },
+    {
+        "nama_wilayah": "Kota Blitar",
+        "garis_kemiskinan": 596105
+    },
+    {
+        "nama_wilayah": "Kota Malang",
+        "garis_kemiskinan": 706341
+    },
+    {
+        "nama_wilayah": "Kota Probolinggo",
+        "garis_kemiskinan": 654409
+    },
+    {
+        "nama_wilayah": "Kota Pasuruan",
+        "garis_kemiskinan": 554195
+    },
+    {
+        "nama_wilayah": "Kota Mojokerto",
+        "garis_kemiskinan": 610968
+    },
+    {
+        "nama_wilayah": "Kota Madiun",
+        "garis_kemiskinan": 637838
+    },
+    {
+        "nama_wilayah": "Kota Surabaya",
+        "garis_kemiskinan": 742678
+    },
+    {
+        "nama_wilayah": "Kota Batu",
+        "garis_kemiskinan": 642778
+    },
+    {
+        "nama_wilayah": "Pandeglang",
+        "garis_kemiskinan": 479886
+    },
+    {
+        "nama_wilayah": "Lebak",
+        "garis_kemiskinan": 440705
+    },
+    {
+        "nama_wilayah": "Tangerang",
+        "garis_kemiskinan": 632941
+    },
+    {
+        "nama_wilayah": "Serang",
+        "garis_kemiskinan": 449291
+    },
+    {
+        "nama_wilayah": "Kota Tangerang",
+        "garis_kemiskinan": 785113
+    },
+    {
+        "nama_wilayah": "Kota Cilegon",
+        "garis_kemiskinan": 663533
+    },
+    {
+        "nama_wilayah": "Kota Serang",
+        "garis_kemiskinan": 540786
+    },
+    {
+        "nama_wilayah": "Kota Tangerang Selatan",
+        "garis_kemiskinan": 828278
+    },
+    {
+        "nama_wilayah": "Jembrana",
+        "garis_kemiskinan": 531164
+    },
+    {
+        "nama_wilayah": "Tabanan",
+        "garis_kemiskinan": 601963
+    },
+    {
+        "nama_wilayah": "Badung",
+        "garis_kemiskinan": 737800
+    },
+    {
+        "nama_wilayah": "Gianyar",
+        "garis_kemiskinan": 500797
+    },
+    {
+        "nama_wilayah": "Klungkung",
+        "garis_kemiskinan": 411010
+    },
+    {
+        "nama_wilayah": "Bangli",
+        "garis_kemiskinan": 465572
+    },
+    {
+        "nama_wilayah": "Karang Asem",
+        "garis_kemiskinan": 432414
+    },
+    {
+        "nama_wilayah": "Buleleng",
+        "garis_kemiskinan": 570129
+    },
+    {
+        "nama_wilayah": "Kota Denpasar",
+        "garis_kemiskinan": 820512
+    },
+    {
+        "nama_wilayah": "Lombok Barat",
+        "garis_kemiskinan": 576478
+    },
+    {
+        "nama_wilayah": "Lombok Tengah",
+        "garis_kemiskinan": 549400
+    },
+    {
+        "nama_wilayah": "Lombok Timur",
+        "garis_kemiskinan": 583957
+    },
+    {
+        "nama_wilayah": "Sumbawa",
+        "garis_kemiskinan": 477774
+    },
+    {
+        "nama_wilayah": "Dompu",
+        "garis_kemiskinan": 469647
+    },
+    {
+        "nama_wilayah": "Bima",
+        "garis_kemiskinan": 451386
+    },
+    {
+        "nama_wilayah": "Sumbawa Barat",
+        "garis_kemiskinan": 611142
+    },
+    {
+        "nama_wilayah": "Lombok Utara",
+        "garis_kemiskinan": 594789
+    },
+    {
+        "nama_wilayah": "Kota Mataram",
+        "garis_kemiskinan": 657667
+    },
+    {
+        "nama_wilayah": "Kota Bima",
+        "garis_kemiskinan": 496096
+    },
+    {
+        "nama_wilayah": "Sumba Barat",
+        "garis_kemiskinan": 441428
+    },
+    {
+        "nama_wilayah": "Sumba Timur",
+        "garis_kemiskinan": 460384
+    },
+    {
+        "nama_wilayah": "Kupang",
+        "garis_kemiskinan": 486458
+    },
+    {
+        "nama_wilayah": "Timor Tengah Selatan",
+        "garis_kemiskinan": 436707
+    },
+    {
+        "nama_wilayah": "Timor Tengah Utara",
+        "garis_kemiskinan": 499772
+    },
+    {
+        "nama_wilayah": "Belu",
+        "garis_kemiskinan": 476703
+    },
+    {
+        "nama_wilayah": "Alor",
+        "garis_kemiskinan": 446875
+    },
+    {
+        "nama_wilayah": "Lembata",
+        "garis_kemiskinan": 517948
+    },
+    {
+        "nama_wilayah": "Flores Timur",
+        "garis_kemiskinan": 412744
+    },
+    {
+        "nama_wilayah": "Sikka",
+        "garis_kemiskinan": 434074
+    },
+    {
+        "nama_wilayah": "Ende",
+        "garis_kemiskinan": 528259
+    },
+    {
+        "nama_wilayah": "Ngada",
+        "garis_kemiskinan": 489139
+    },
+    {
+        "nama_wilayah": "Manggarai",
+        "garis_kemiskinan": 454625
+    },
+    {
+        "nama_wilayah": "Rote Ndao",
+        "garis_kemiskinan": 426843
+    },
+    {
+        "nama_wilayah": "Manggarai Barat",
+        "garis_kemiskinan": 458834
+    },
+    {
+        "nama_wilayah": "Sumba Tengah",
+        "garis_kemiskinan": 381760
+    },
+    {
+        "nama_wilayah": "Sumba Barat Daya",
+        "garis_kemiskinan": 494229
+    },
+    {
+        "nama_wilayah": "Nagekeo",
+        "garis_kemiskinan": 487814
+    },
+    {
+        "nama_wilayah": "Manggarai Timur",
+        "garis_kemiskinan": 458116
+    },
+    {
+        "nama_wilayah": "Sabu Raijua",
+        "garis_kemiskinan": 549947
+    },
+    {
+        "nama_wilayah": "Malaka",
+        "garis_kemiskinan": 474853
+    },
+    {
+        "nama_wilayah": "Kota Kupang",
+        "garis_kemiskinan": 761108
+    },
+    {
+        "nama_wilayah": "KALIMANTAN BARAT",
+        "garis_kemiskinan": 595509
+    },
+    {
+        "nama_wilayah": "Sambas",
+        "garis_kemiskinan": 528017
+    },
+    {
+        "nama_wilayah": "Bengkayang",
+        "garis_kemiskinan": 440390
+    },
+    {
+        "nama_wilayah": "Landak",
+        "garis_kemiskinan": 473797
+    },
+    {
+        "nama_wilayah": "Pontianak",
+        "garis_kemiskinan": 471845
+    },
+    {
+        "nama_wilayah": "Sanggau",
+        "garis_kemiskinan": 440303
+    },
+    {
+        "nama_wilayah": "Ketapang",
+        "garis_kemiskinan": 570638
+    },
+    {
+        "nama_wilayah": "Sintang",
+        "garis_kemiskinan": 670853
+    },
+    {
+        "nama_wilayah": "Kapuas Hulu",
+        "garis_kemiskinan": 572644
+    },
+    {
+        "nama_wilayah": "Sekadau",
+        "garis_kemiskinan": 414782
+    },
+    {
+        "nama_wilayah": "Melawi",
+        "garis_kemiskinan": 666972
+    },
+    {
+        "nama_wilayah": "Kayong Utara",
+        "garis_kemiskinan": 386071
+    },
+    {
+        "nama_wilayah": "Kubu Raya",
+        "garis_kemiskinan": 511815
+    },
+    {
+        "nama_wilayah": "Kota Pontianak",
+        "garis_kemiskinan": 708333
+    },
+    {
+        "nama_wilayah": "Kota Singkawang",
+        "garis_kemiskinan": 614077
+    },
+    {
+        "nama_wilayah": "Kotawaringin Barat",
+        "garis_kemiskinan": 536747
+    },
+    {
+        "nama_wilayah": "Kotawaringin Timur",
+        "garis_kemiskinan": 572827
+    },
+    {
+        "nama_wilayah": "Kapuas",
+        "garis_kemiskinan": 508022
+    },
+    {
+        "nama_wilayah": "Barito Selatan",
+        "garis_kemiskinan": 542075
+    },
+    {
+        "nama_wilayah": "Barito Utara",
+        "garis_kemiskinan": 628429
+    },
+    {
+        "nama_wilayah": "Sukamara",
+        "garis_kemiskinan": 676781
+    },
+    {
+        "nama_wilayah": "Lamandau",
+        "garis_kemiskinan": 673768
+    },
+    {
+        "nama_wilayah": "Seruyan",
+        "garis_kemiskinan": 642281
+    },
+    {
+        "nama_wilayah": "Katingan",
+        "garis_kemiskinan": 615575
+    },
+    {
+        "nama_wilayah": "Pulang Pisau",
+        "garis_kemiskinan": 542349
+    },
+    {
+        "nama_wilayah": "Gunung Mas",
+        "garis_kemiskinan": 562332
+    },
+    {
+        "nama_wilayah": "Barito Timur",
+        "garis_kemiskinan": 663119
+    },
+    {
+        "nama_wilayah": "Murung Raya",
+        "garis_kemiskinan": 646759
+    },
+    {
+        "nama_wilayah": "Kota Palangka Raya",
+        "garis_kemiskinan": 555618
+    },
+    {
+        "nama_wilayah": "Tanah Laut",
+        "garis_kemiskinan": 670062
+    },
+    {
+        "nama_wilayah": "Kota Baru",
+        "garis_kemiskinan": 592230
+    },
+    {
+        "nama_wilayah": "Banjar",
+        "garis_kemiskinan": 589165
+    },
+    {
+        "nama_wilayah": "Barito Kuala",
+        "garis_kemiskinan": 437579
+    },
+    {
+        "nama_wilayah": "Tapin",
+        "garis_kemiskinan": 561101
+    },
+    {
+        "nama_wilayah": "Hulu Sungai Selatan",
+        "garis_kemiskinan": 583549
+    },
+    {
+        "nama_wilayah": "Hulu Sungai Tengah",
+        "garis_kemiskinan": 513950
+    },
+    {
+        "nama_wilayah": "Hulu Sungai Utara",
+        "garis_kemiskinan": 597894
+    },
+    {
+        "nama_wilayah": "Tabalong",
+        "garis_kemiskinan": 637132
+    },
+    {
+        "nama_wilayah": "Tanah Bumbu",
+        "garis_kemiskinan": 643652
+    },
+    {
+        "nama_wilayah": "Balangan",
+        "garis_kemiskinan": 528104
+    },
+    {
+        "nama_wilayah": "Kota Banjarmasin",
+        "garis_kemiskinan": 743872
+    },
+    {
+        "nama_wilayah": "Kota Banjar Baru",
+        "garis_kemiskinan": 781405
+    },
+    {
+        "nama_wilayah": "Paser",
+        "garis_kemiskinan": 634259
+    },
+    {
+        "nama_wilayah": "Kutai Barat",
+        "garis_kemiskinan": 716440
+    },
+    {
+        "nama_wilayah": "Kutai Kartanegara",
+        "garis_kemiskinan": 682490
+    },
+    {
+        "nama_wilayah": "Kutai Timur",
+        "garis_kemiskinan": 753332
+    },
+    {
+        "nama_wilayah": "Berau",
+        "garis_kemiskinan": 731250
+    },
+    {
+        "nama_wilayah": "Penajam Paser Utara",
+        "garis_kemiskinan": 617673
+    },
+    {
+        "nama_wilayah": "Mahakam Hulu",
+        "garis_kemiskinan": 792742
+    },
+    {
+        "nama_wilayah": "Kota Balikpapan",
+        "garis_kemiskinan": 782248
+    },
+    {
+        "nama_wilayah": "Kota Samarinda",
+        "garis_kemiskinan": 877945
+    },
+    {
+        "nama_wilayah": "Kota Bontang",
+        "garis_kemiskinan": 801945
+    },
+    {
+        "nama_wilayah": "Malinau",
+        "garis_kemiskinan": 791037
+    },
+    {
+        "nama_wilayah": "Bulungan",
+        "garis_kemiskinan": 572546
+    },
+    {
+        "nama_wilayah": "Tana Tidung",
+        "garis_kemiskinan": 518696
+    },
+    {
+        "nama_wilayah": "Nunukan",
+        "garis_kemiskinan": 597431
+    },
+    {
+        "nama_wilayah": "Kota Tarakan",
+        "garis_kemiskinan": 854967
+    },
+    {
+        "nama_wilayah": "Bolaang Mongondow",
+        "garis_kemiskinan": 415628
+    },
+    {
+        "nama_wilayah": "Minahasa",
+        "garis_kemiskinan": 352693
+    },
+    {
+        "nama_wilayah": "Kepulauan Sangihe",
+        "garis_kemiskinan": 328431
+    },
+    {
+        "nama_wilayah": "Kepulauan Talaud",
+        "garis_kemiskinan": 364581
+    },
+    {
+        "nama_wilayah": "Minahasa Selatan",
+        "garis_kemiskinan": 435428
+    },
+    {
+        "nama_wilayah": "Minahasa Utara",
+        "garis_kemiskinan": 427412
+    },
+    {
+        "nama_wilayah": "Bolaang Mongondow Utara",
+        "garis_kemiskinan": 334448
+    },
+    {
+        "nama_wilayah": "Siau Tagulandang Biaro",
+        "garis_kemiskinan": 388056
+    },
+    {
+        "nama_wilayah": "Minahasa Tenggara",
+        "garis_kemiskinan": 402654
+    },
+    {
+        "nama_wilayah": "Bolaang Mongondow Selatan",
+        "garis_kemiskinan": 419865
+    },
+    {
+        "nama_wilayah": "Bolaang Mongondow Timur",
+        "garis_kemiskinan": 433873
+    },
+    {
+        "nama_wilayah": "Kota Manado",
+        "garis_kemiskinan": 540888
+    },
+    {
+        "nama_wilayah": "Kota Bitung",
+        "garis_kemiskinan": 518405
+    },
+    {
+        "nama_wilayah": "Kota Tomohon",
+        "garis_kemiskinan": 530321
+    },
+    {
+        "nama_wilayah": "Kota Kotamobagu",
+        "garis_kemiskinan": 452245
+    },
+    {
+        "nama_wilayah": "Banggai Kepulauan",
+        "garis_kemiskinan": 453552
+    },
+    {
+        "nama_wilayah": "Banggai",
+        "garis_kemiskinan": 515334
+    },
+    {
+        "nama_wilayah": "Morowali",
+        "garis_kemiskinan": 590027
+    },
+    {
+        "nama_wilayah": "Poso",
+        "garis_kemiskinan": 620267
+    },
+    {
+        "nama_wilayah": "Donggala",
+        "garis_kemiskinan": 438396
+    },
+    {
+        "nama_wilayah": "Toli-Toli",
+        "garis_kemiskinan": 441975
+    },
+    {
+        "nama_wilayah": "Buol",
+        "garis_kemiskinan": 477640
+    },
+    {
+        "nama_wilayah": "Parigi Moutong",
+        "garis_kemiskinan": 553012
+    },
+    {
+        "nama_wilayah": "Tojo Una-Una",
+        "garis_kemiskinan": 622000
+    },
+    {
+        "nama_wilayah": "Sigi",
+        "garis_kemiskinan": 463011
+    },
+    {
+        "nama_wilayah": "Banggai Laut",
+        "garis_kemiskinan": 443877
+    },
+    {
+        "nama_wilayah": "Morowali Utara",
+        "garis_kemiskinan": 594137
+    },
+    {
+        "nama_wilayah": "Kota Palu",
+        "garis_kemiskinan": 658112
+    },
+    {
+        "nama_wilayah": "Kepulauan Selayar",
+        "garis_kemiskinan": 468755
+    },
+    {
+        "nama_wilayah": "Bulukumba",
+        "garis_kemiskinan": 422111
+    },
+    {
+        "nama_wilayah": "Bantaeng",
+        "garis_kemiskinan": 434664
+    },
+    {
+        "nama_wilayah": "Jeneponto",
+        "garis_kemiskinan": 416231
+    },
+    {
+        "nama_wilayah": "Takalar",
+        "garis_kemiskinan": 455793
+    },
+    {
+        "nama_wilayah": "Gowa",
+        "garis_kemiskinan": 475305
+    },
+    {
+        "nama_wilayah": "Sinjai",
+        "garis_kemiskinan": 412441
+    },
+    {
+        "nama_wilayah": "Maros",
+        "garis_kemiskinan": 530070
+    },
+    {
+        "nama_wilayah": "Pangkajene Dan Kepulauan",
+        "garis_kemiskinan": 439192
+    },
+    {
+        "nama_wilayah": "Barru",
+        "garis_kemiskinan": 417396
+    },
+    {
+        "nama_wilayah": "Bone",
+        "garis_kemiskinan": 423727
+    },
+    {
+        "nama_wilayah": "Soppeng",
+        "garis_kemiskinan": 411958
+    },
+    {
+        "nama_wilayah": "Wajo",
+        "garis_kemiskinan": 431291
+    },
+    {
+        "nama_wilayah": "Sidenreng Rappang",
+        "garis_kemiskinan": 458509
+    },
+    {
+        "nama_wilayah": "Pinrang",
+        "garis_kemiskinan": 414198
+    },
+    {
+        "nama_wilayah": "Enrekang",
+        "garis_kemiskinan": 427556
+    },
+    {
+        "nama_wilayah": "Luwu",
+        "garis_kemiskinan": 433898
+    },
+    {
+        "nama_wilayah": "Tana Toraja",
+        "garis_kemiskinan": 418308
+    },
+    {
+        "nama_wilayah": "Luwu Utara",
+        "garis_kemiskinan": 431980
+    },
+    {
+        "nama_wilayah": "Luwu Timur",
+        "garis_kemiskinan": 460356
+    },
+    {
+        "nama_wilayah": "Toraja Utara",
+        "garis_kemiskinan": 413029
+    },
+    {
+        "nama_wilayah": "Kota Makassar",
+        "garis_kemiskinan": 592753
+    },
+    {
+        "nama_wilayah": "Kota Palopo",
+        "garis_kemiskinan": 466521
+    },
+    {
+        "nama_wilayah": "Buton",
+        "garis_kemiskinan": 313831
+    },
+    {
+        "nama_wilayah": "Muna",
+        "garis_kemiskinan": 434750
+    },
+    {
+        "nama_wilayah": "Konawe",
+        "garis_kemiskinan": 425029
+    },
+    {
+        "nama_wilayah": "Kolaka",
+        "garis_kemiskinan": 477917
+    },
+    {
+        "nama_wilayah": "Konawe Selatan",
+        "garis_kemiskinan": 354696
+    },
+    {
+        "nama_wilayah": "Bombana",
+        "garis_kemiskinan": 423183
+    },
+    {
+        "nama_wilayah": "Wakatobi",
+        "garis_kemiskinan": 355748
+    },
+    {
+        "nama_wilayah": "Kolaka Utara",
+        "garis_kemiskinan": 529192
+    },
+    {
+        "nama_wilayah": "Buton Utara",
+        "garis_kemiskinan": 422483
+    },
+    {
+        "nama_wilayah": "Konawe Utara",
+        "garis_kemiskinan": 407710
+    },
+    {
+        "nama_wilayah": "Kolaka Timur",
+        "garis_kemiskinan": 525091
+    },
+    {
+        "nama_wilayah": "Konawe Kepulauan",
+        "garis_kemiskinan": 415880
+    },
+    {
+        "nama_wilayah": "Muna Barat",
+        "garis_kemiskinan": 428282
+    },
+    {
+        "nama_wilayah": "Buton Tengah",
+        "garis_kemiskinan": 310721
+    },
+    {
+        "nama_wilayah": "Buton Selatan",
+        "garis_kemiskinan": 300991
+    },
+    {
+        "nama_wilayah": "Kota Kendari",
+        "garis_kemiskinan": 516809
+    },
+    {
+        "nama_wilayah": "Kota Baubau",
+        "garis_kemiskinan": 431717
+    },
+    {
+        "nama_wilayah": "Boalemo",
+        "garis_kemiskinan": 551189
+    },
+    {
+        "nama_wilayah": "Gorontalo",
+        "garis_kemiskinan": 605743
+    },
+    {
+        "nama_wilayah": "Pohuwato",
+        "garis_kemiskinan": 391236
+    },
+    {
+        "nama_wilayah": "Bone Bolango",
+        "garis_kemiskinan": 531286
+    },
+    {
+        "nama_wilayah": "Gorontalo Utara",
+        "garis_kemiskinan": 387535
+    },
+    {
+        "nama_wilayah": "Kota Gorontalo",
+        "garis_kemiskinan": 723861
+    },
+    {
+        "nama_wilayah": "Majene",
+        "garis_kemiskinan": 482173
+    },
+    {
+        "nama_wilayah": "Polewali Mandar",
+        "garis_kemiskinan": 507347
+    },
+    {
+        "nama_wilayah": "Mamasa",
+        "garis_kemiskinan": 347008
+    },
+    {
+        "nama_wilayah": "Mamuju",
+        "garis_kemiskinan": 356903
+    },
+    {
+        "nama_wilayah": "Mamuju Utara",
+        "garis_kemiskinan": 453038
+    },
+    {
+        "nama_wilayah": "Mamuju Tengah",
+        "garis_kemiskinan": 324888
+    },
+    {
+        "nama_wilayah": "Maluku Tenggara Barat",
+        "garis_kemiskinan": 645956
+    },
+    {
+        "nama_wilayah": "Maluku Tenggara",
+        "garis_kemiskinan": 695738
+    },
+    {
+        "nama_wilayah": "Maluku Tengah",
+        "garis_kemiskinan": 614323
+    },
+    {
+        "nama_wilayah": "Buru",
+        "garis_kemiskinan": 610346
+    },
+    {
+        "nama_wilayah": "Kepulauan Aru",
+        "garis_kemiskinan": 644112
+    },
+    {
+        "nama_wilayah": "Seram Bagian Barat",
+        "garis_kemiskinan": 508517
+    },
+    {
+        "nama_wilayah": "Seram Bagian Timur",
+        "garis_kemiskinan": 478721
+    },
+    {
+        "nama_wilayah": "Maluku Barat Daya",
+        "garis_kemiskinan": 686428
+    },
+    {
+        "nama_wilayah": "Buru Selatan",
+        "garis_kemiskinan": 769919
+    },
+    {
+        "nama_wilayah": "Kota Ambon",
+        "garis_kemiskinan": 750166
+    },
+    {
+        "nama_wilayah": "Kota Tual",
+        "garis_kemiskinan": 746967
+    },
+    {
+        "nama_wilayah": "Halmahera Barat",
+        "garis_kemiskinan": 455327
+    },
+    {
+        "nama_wilayah": "Halmahera Tengah",
+        "garis_kemiskinan": 593903
+    },
+    {
+        "nama_wilayah": "Kepulauan Sula",
+        "garis_kemiskinan": 485242
+    },
+    {
+        "nama_wilayah": "Halmahera Selatan",
+        "garis_kemiskinan": 449334
+    },
+    {
+        "nama_wilayah": "Halmahera Utara",
+        "garis_kemiskinan": 425857
+    },
+    {
+        "nama_wilayah": "Halmahera Timur",
+        "garis_kemiskinan": 655936
+    },
+    {
+        "nama_wilayah": "Pulau Morotai",
+        "garis_kemiskinan": 428136
+    },
+    {
+        "nama_wilayah": "Pulau Taliabu",
+        "garis_kemiskinan": 525953
+    },
+    {
+        "nama_wilayah": "Kota Ternate",
+        "garis_kemiskinan": 701354
+    },
+    {
+        "nama_wilayah": "Kota Tidore Kepulauan",
+        "garis_kemiskinan": 581193
+    },
+    {
+        "nama_wilayah": "Fakfak",
+        "garis_kemiskinan": 725257
+    },
+    {
+        "nama_wilayah": "Kaimana",
+        "garis_kemiskinan": 682231
+    },
+    {
+        "nama_wilayah": "Teluk Wondama",
+        "garis_kemiskinan": 710854
+    },
+    {
+        "nama_wilayah": "Teluk Bintuni",
+        "garis_kemiskinan": 794285
+    },
+    {
+        "nama_wilayah": "Manokwari",
+        "garis_kemiskinan": 802749
+    },
+    {
+        "nama_wilayah": "Manokwari Selatan",
+        "garis_kemiskinan": 734246
+    },
+    {
+        "nama_wilayah": "Pegunungan Arfak",
+        "garis_kemiskinan": 738135
+    },
+    {
+        "nama_wilayah": "Raja Ampat",
+        "garis_kemiskinan": 629473
+    },
+    {
+        "nama_wilayah": "Sorong",
+        "garis_kemiskinan": 631729
+    },
+    {
+        "nama_wilayah": "Sorong Selatan",
+        "garis_kemiskinan": 579310
+    },
+    {
+        "nama_wilayah": "Maybrat",
+        "garis_kemiskinan": 565725
+    },
+    {
+        "nama_wilayah": "Tambrauw",
+        "garis_kemiskinan": 579473
+    },
+    {
+        "nama_wilayah": "Kota Sorong",
+        "garis_kemiskinan": 902534
+    },
+    {
+        "nama_wilayah": "Jayapura",
+        "garis_kemiskinan": 729234
+    },
+    {
+        "nama_wilayah": "Kepulauan Yapen",
+        "garis_kemiskinan": 782033
+    },
+    {
+        "nama_wilayah": "Biak Numfor",
+        "garis_kemiskinan": 677659
+    },
+    {
+        "nama_wilayah": "Sarmi",
+        "garis_kemiskinan": 653436
+    },
+    {
+        "nama_wilayah": "Keerom",
+        "garis_kemiskinan": 832766
+    },
+    {
+        "nama_wilayah": "Waropen",
+        "garis_kemiskinan": 835594
+    },
+    {
+        "nama_wilayah": "Supiori",
+        "garis_kemiskinan": 587783
+    },
+    {
+        "nama_wilayah": "Mamberamo Raya",
+        "garis_kemiskinan": 861147
+    },
+    {
+        "nama_wilayah": "Kota Jayapura",
+        "garis_kemiskinan": 1179015
+    },
+    {
+        "nama_wilayah": "Merauke",
+        "garis_kemiskinan": 484224
+    },
+    {
+        "nama_wilayah": "Boven Digoel",
+        "garis_kemiskinan": 622315
+    },
+    {
+        "nama_wilayah": "Mappi",
+        "garis_kemiskinan": 480727
+    },
+    {
+        "nama_wilayah": "Asmat",
+        "garis_kemiskinan": 487035
+    },
+    {
+        "nama_wilayah": "Mimika",
+        "garis_kemiskinan": 1099143
+    },
+    {
+        "nama_wilayah": "Dogiyai",
+        "garis_kemiskinan": 709423
+    },
+    {
+        "nama_wilayah": "Deiyai",
+        "garis_kemiskinan": 770492
+    },
+    {
+        "nama_wilayah": "Nabire",
+        "garis_kemiskinan": 833652
+    },
+    {
+        "nama_wilayah": "Paniai",
+        "garis_kemiskinan": 711078
+    },
+    {
+        "nama_wilayah": "Intan Jaya",
+        "garis_kemiskinan": 948843
+    },
+    {
+        "nama_wilayah": "Puncak",
+        "garis_kemiskinan": 888666
+    },
+    {
+        "nama_wilayah": "Puncak Jaya",
+        "garis_kemiskinan": 879631
+    },
+    {
+        "nama_wilayah": "Nduga",
+        "garis_kemiskinan": 654456
+    },
+    {
+        "nama_wilayah": "Jayawijaya",
+        "garis_kemiskinan": 722258
+    },
+    {
+        "nama_wilayah": "Lanny Jaya",
+        "garis_kemiskinan": 816044
+    },
+    {
+        "nama_wilayah": "Tolikara",
+        "garis_kemiskinan": 675908
+    },
+    {
+        "nama_wilayah": "Mamberamo Tengah",
+        "garis_kemiskinan": 713489
+    },
+    {
+        "nama_wilayah": "Yalimo",
+        "garis_kemiskinan": 600536
+    },
+    {
+        "nama_wilayah": "Yahukimo",
+        "garis_kemiskinan": 718084
+    },
+    {
+        "nama_wilayah": "Pegunungan Bintang",
+        "garis_kemiskinan": 917115
+    }
+]
